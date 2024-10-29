@@ -1,0 +1,141 @@
+/* ACF FIELDS */
+
+.acfFfcFlexy img {
+
+    max-width: 100%;
+
+}
+
+.documentList {
+
+    overflow: auto;
+
+}
+
+.pdf {
+
+    width: 100%;
+    background-color: #F3F2EE;
+    display: inline-block;
+    vertical-align: middle;
+    padding: 10px;
+    margin-bottom: 4px;
+
+}
+
+.pdf a {
+
+    font-weight: bold;
+    color: #5d5d4e;
+
+}
+
+.pdf a i {
+
+    margin-right: 10px;
+
+}
+
+.text_image {
+
+    overflow: auto;
+
+}
+
+.aligned_text {
+
+    padding-top: 20px;
+
+}
+
+.image_box {
+
+    overflow: auto;
+
+}
+
+.right.right {
+
+    float: right;
+
+}
+
+.left.left {
+
+    float: left;
+
+}
+
+.content_list p {
+
+    font-size: 16px;
+
+}
+
+/* If no bootstrap */
+.row {
+    margin-right: -15px;
+    margin-left: -15px;
+    overflow: auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.container {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.col-lg-4, .col-lg-6, .col-lg-12 {
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.col-xs-12 {
+    width: 100%;
+}
+
+.col-lg-4, .col-lg-6 {
+
+    float: left;
+
+}
+
+@media (min-width: 992px) {
+    .container {
+        width: 970px;
+    }
+
+}
+
+@media (min-width: 992px) {
+    .container {
+        width: 970px;
+    }
+
+}
+
+@media (min-width: 1200px) {
+
+    .container {
+        width: 1170px;
+
+    }
+
+    .col-lg-4 {
+        width: 33.33333333%;
+    }
+
+    .col-lg-6 {
+        width: 50%;
+    }
+
+}
+
+/* If no bootstrap end */
+
+/* ACF FIELDS END */
